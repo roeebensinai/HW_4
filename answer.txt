@@ -1,0 +1,21 @@
+A.
+
+We assume that a manual check will take the following time:
+	1. Open an article (10 sec)
+	2. Search for the relevant words (180 sec)
+	3. Calculate and sum (10 sec)
+Total time = 60*200 = 1200 sec = 3 hours + 20 min
+
+
+B.
+
+We conclude that using Bash Script can be extremely helpfull while searching / operating many actions on a big amount of file / data.
+We can use sctripts while searchin for a specific information in a big data base.
+Scripts can calculate many actions in a short period of time over a wide source of informotion.
+
+
+C.
+
+In order to repeat the action every hour, we can use the known function repeat, that can save us time and can do actions automaticlly by itself.
+we only need to set the wanted period of time and the wanted action once.
+In order to prevent unnecessary searches in articles that we've already searched through, we can add an if condition that checks if the specific URL has been visited before.
